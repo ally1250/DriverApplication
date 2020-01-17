@@ -25,7 +25,7 @@ https://github.com/ally1250/DriverApplication/blob/master/src/graphqlMock.js <br
 https://github.com/ally1250/DriverApplication/tree/master/src/_mock <br />
 * **Reusable components:**
 https://github.com/ally1250/DriverApplication/tree/master/src/common
-* **Sample Views:**
+* **Sample Views:** <br />
 The following views includes examples of using React with Redux and GraphQL client. <br />
 Home View: https://github.com/ally1250/DriverApplication/tree/master/src/HomeView <br />
 Profile View: https://github.com/ally1250/DriverApplication/tree/master/src/ProfileView <br />
