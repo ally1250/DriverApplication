@@ -21,14 +21,14 @@ https://github.com/ally1250/DriverApplication/blob/master/src/QueryUtils.js
 https://github.com/ally1250/DriverApplication/blob/master/src/MutationUtils.js
 * **Sample mock GraphQL data:** <br />
 Below are some samples of the GraphQL mock we used before we integerated react-apollo.
-https://github.com/ally1250/DriverApplication/blob/master/src/graphqlMock.js
-https://github.com/ally1250/DriverApplication/tree/master/src/_mock
+https://github.com/ally1250/DriverApplication/blob/master/src/graphqlMock.js <br />
+https://github.com/ally1250/DriverApplication/tree/master/src/_mock <br />
 * **Reusable components:**
 https://github.com/ally1250/DriverApplication/tree/master/src/common
 * **Sample Views:**
-The following views includes examples of using React with Redux and GraphQL client.
-Home View: https://github.com/ally1250/DriverApplication/tree/master/src/HomeView
-Profile View: https://github.com/ally1250/DriverApplication/tree/master/src/ProfileView
-Prepare for Delivery View: https://github.com/ally1250/DriverApplication/tree/master/src/PrepareDeliveryView
-Login and Signup Views: https://github.com/ally1250/DriverApplication/tree/master/src/Auth
-Search Orders View: https://github.com/ally1250/DriverApplication/tree/master/src/AllOrdersView
+The following views includes examples of using React with Redux and GraphQL client. <br />
+Home View: https://github.com/ally1250/DriverApplication/tree/master/src/HomeView <br />
+Profile View: https://github.com/ally1250/DriverApplication/tree/master/src/ProfileView <br />
+Prepare for Delivery View: https://github.com/ally1250/DriverApplication/tree/master/src/PrepareDeliveryView <br />
+Login and Signup Views: https://github.com/ally1250/DriverApplication/tree/master/src/Auth <br />
+Search Orders View: https://github.com/ally1250/DriverApplication/tree/master/src/AllOrdersView <br />
