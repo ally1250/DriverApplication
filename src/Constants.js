@@ -1,0 +1,39 @@
+import COLOR from './Colors';
+
+export const DELIVERY = {
+  UNSTARTED: 'UNSTARTED',
+  EN_ROUTE: 'EN_ROUTE',
+  DELIVERED: 'DELIVERED',
+};
+
+export const ORDER = {
+  COMPLETED: 'COMPLETED',
+  CANCELLED: 'CANCELLED',
+  DELIVERING: 'DELIVERING',
+  DELIVERED: 'DELIVERED',
+  REFUND_REQUESTED: 'REFUND_REQUESTED',
+  REFUNDED: 'REFUNDED',
+};
+
+export const DELIVERY_STATUS = ['UNSTARTED', 'EN_ROUTE', 'DELIVERED'];
+
+export const ORDER_STATUS = [
+  'COMPLETED',
+  'CANCELLED',
+  'DELIVERING',
+  'DELIVERED',
+  'REFUND_REQUESTED',
+  'REFUNDED',
+];
+
+export const STATUS_TYPE = {
+  IN_PROGRESS: 'In Progress',
+  COMPLETED: 'Completed',
+  UNSTARTED: 'Unstarted',
+};
+
+export const STATUS_COLOR = {
+  'In Progress': COLOR.RED,
+  Completed: COLOR.BLUE,
+  Unstarted: COLOR.GREY,
+};
