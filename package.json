@@ -27,7 +27,7 @@
     "react-native-drawer": "^2.5.1",
     "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.4.1",
-    "react-native-launch-navigator": "^1.0.6",
+    "react-native-launch-navigator": "^1.0.8",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-navigation-directions": "^1.0.3",
     "react-native-progress-steps": "^1.2.8",
